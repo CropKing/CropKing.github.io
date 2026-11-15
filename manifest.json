@@ -1,0 +1,17 @@
+{
+  "name": "CropKing",
+  "short_name": "CropKing",
+  "description": "Выращивай урожай, строй заводы и возрождай деревню",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#5EC8FF",
+  "theme_color": "#4DAE2B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
