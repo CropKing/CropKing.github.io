@@ -1,5 +1,5 @@
 // Сохраняет игру на телефоне, чтобы она открывалась даже без интернета
-const CACHE = "cropking-v10";
+const CACHE = "cropking-v11";
 const FILES = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
